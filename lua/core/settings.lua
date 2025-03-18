@@ -13,8 +13,8 @@ vim.cmd([[ set nofoldenable]])
 
 vim.cmd([[ set list ]])
 
-vim.opt.autochdir = true
-vim.g.netrw_keepdir = 0
+-- vim.opt.autochdir = true
+-- vim.g.netrw_keepdir = 0
 
 vim.opt.tabstop = 2
 vim.opt.shiftwidth = 2
