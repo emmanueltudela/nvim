@@ -6,9 +6,6 @@ vim.cmd [[colorscheme dracula]]
 vim.opt.number = true
 vim.opt.relativenumber = true
 
-vim.opt.foldmethod = "manual"
-vim.cmd([[ set nofoldenable]])
-
 vim.cmd([[ set list ]])
 
 vim.opt.autochdir = true
