@@ -9,4 +9,7 @@ return {
     -- Treesitter
     "nvim-treesitter/nvim-treesitter",
     "pest-parser/pest.vim",
+
+    -- Image handler
+    "3rd/image.nvim"
 }
