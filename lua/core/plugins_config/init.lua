@@ -1,6 +1,6 @@
 require("core.plugins_config.treesitter")
 require("core.plugins_config.lsp")
 require("core.plugins_config.ntree")
-require("core.plugins_config.telescope")
 require("core.plugins_config.image")
 require("core.plugins_config.neorg")
+require("core.plugins_config.colorscheme")

@@ -7,11 +7,7 @@ require("neorg").setup {
     ["core.integrations.treesitter"] = {},
     ["core.integrations.image"] = {},
     ["core.neorgcmd"] = {},
-    ["core.latex.renderer"] = {
-      config = {
-        conceal = "true",
-      }
-    },
+    ["core.latex.renderer"] = {},
     ["core.dirman"] = {
       config = {
         workspaces = {
