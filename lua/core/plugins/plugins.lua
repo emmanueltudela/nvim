@@ -9,12 +9,11 @@ return {
     "williamboman/mason-lspconfig.nvim",
 
     -- Nerd tree
-    "nvim-tree/nvim-tree.lua",
+    "nvim-neo-tree/neo-tree.nvim",
     "nvim-tree/nvim-web-devicons",
 
     -- Treesitter
     "nvim-treesitter/nvim-treesitter",
-    "pest-parser/pest.vim",
 
     -- Image handler
     "3rd/image.nvim"
