@@ -9,7 +9,7 @@ return {
     "williamboman/mason-lspconfig.nvim",
 
     -- Nerd tree
-    "nvim-neo-tree/neo-tree.nvim",
+    "nvim-tree/nvim-tree.lua",
     "nvim-tree/nvim-web-devicons",
 
     -- Treesitter
