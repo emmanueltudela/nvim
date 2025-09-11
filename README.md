@@ -20,3 +20,5 @@ If you want to use Neorg with inline latex renderer
 - texlive-fonts-recommended
 
 You can always check `:checkhealth` if something doesn't work (lsp or other)
+
+[test]{:init.lua:}
