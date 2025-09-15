@@ -1,7 +1,6 @@
 return {
     -- My plugins
-    -- "nvim-neorg/neorg",
-    -- "nvim-telescope/telescope.nvim",
+    "nvim-telescope/telescope.nvim",
 
     -- LSP
     "williamboman/mason.nvim",
@@ -9,12 +8,11 @@ return {
     "neovim/nvim-lspconfig",
 
     -- Nerd tree
-    -- "nvim-tree/nvim-tree.lua",
-    -- "nvim-tree/nvim-web-devicons",
+    "preservim/nerdtree",
+    "ryanoasis/vim-devicons",
+    "Xuyuanp/nerdtree-git-plugin",
+    "tiagofumo/vim-nerdtree-syntax-highlight",
 
     -- Treesitter
     "nvim-treesitter/nvim-treesitter",
-
-    -- Image handler
-    -- "3rd/image.nvim"
 }
