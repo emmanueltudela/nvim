@@ -9,7 +9,10 @@ return {
 
     -- Nerd tree
     "preservim/nerdtree",
-    "ryanoasis/vim-devicons",
+    {
+      "ryanoasis/vim-devicons",
+      priority = 100,
+    },
     "Xuyuanp/nerdtree-git-plugin",
     "tiagofumo/vim-nerdtree-syntax-highlight",
 

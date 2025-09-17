@@ -14,7 +14,7 @@ vim.opt.relativenumber = true
 
 vim.cmd("set list")
 
-vim.opt.autochdir = true
+-- vim.opt.autochdir = true
 
 vim.opt.tabstop = 2
 vim.opt.shiftwidth = 2
