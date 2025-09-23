@@ -8,13 +8,13 @@ return {
     "neovim/nvim-lspconfig",
 
     -- Nerd tree
-    "preservim/nerdtree",
-    {
-      "ryanoasis/vim-devicons",
-      priority = 100,
-    },
-    "Xuyuanp/nerdtree-git-plugin",
-    "tiagofumo/vim-nerdtree-syntax-highlight",
+    -- "preservim/nerdtree",
+    -- {
+    --   "ryanoasis/vim-devicons",
+    --   priority = 100,
+    -- },
+    -- "Xuyuanp/nerdtree-git-plugin",
+    -- "tiagofumo/vim-nerdtree-syntax-highlight",
 
     -- Treesitter
     "nvim-treesitter/nvim-treesitter",

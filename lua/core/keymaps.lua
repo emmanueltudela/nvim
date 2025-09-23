@@ -15,7 +15,7 @@ vim.keymap.set('n', 'ge', vim.diagnostic.open_float)
 vim.keymap.set('n', 'K', vim.lsp.buf.hover)
 
 -- NTree
-vim.keymap.set('n', '<leader>f', ':NERDTreeToggle<CR>')
+vim.keymap.set('n', '<leader>f', ':Vexplore<CR>')
 
 -- Telescope
 local telescope = require('telescope.builtin')
